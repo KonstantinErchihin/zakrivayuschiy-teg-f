@@ -1,1 +1,1 @@
-https://github.com/KonstantinErchihin/zakrivayuschiy-teg-f.git
+Константин Ерчихин. Проектная работа "Закрывающий тег".
