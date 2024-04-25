@@ -17,7 +17,7 @@
     }
 }
   
-:root.theme-dark {
+:root {
     --card-title-font-weight: 785;
     --card-text-font-weight: 465;
     --bg-color: #000000;
