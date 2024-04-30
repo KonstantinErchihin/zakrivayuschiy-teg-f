@@ -177,7 +177,7 @@
   top: 23px;
   right: 13px;
   color: var(--accent-color);
-  font-family: var(--accent-font-name), sans-serif;
+  font-family: var(--accent-font-name), fantasy;
   opacity: 0.5;
   mix-blend-mode: hard-light;
   font-size: 14px;
@@ -278,7 +278,7 @@ button {
 }
 
 .button__text {
-  font-family: var(--accent-font-name), sans-serif;
+  font-family: var(--accent-font-name), fantasy;
   font-size: 14px;
   color: var(--button-color);
   z-index: 1;
@@ -343,6 +343,7 @@ button {
   padding: 32px 42px;
   min-width: clamp(21.313rem, 20.96rem + 1.502vw, 22.313rem);
   min-height: clamp(12.188rem, 12.232rem + -0.188vw, 12.063rem);
+  width: 357px;
 }
 
 .dialog[open] {
