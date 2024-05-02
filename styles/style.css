@@ -340,10 +340,10 @@ button {
 .dialog {
   position: fixed;
   inset: 0;
-  padding: 32px 42px;
+  padding: 30px;
   min-width: clamp(21.313rem, 20.96rem + 1.502vw, 22.313rem);
   min-height: clamp(12.188rem, 12.232rem + -0.188vw, 12.063rem);
-  width: 357px;
+  width: clamp(21.3125rem, 20.8791rem + 1.849vw, 22.0625rem);
 }
 
 .dialog[open] {
